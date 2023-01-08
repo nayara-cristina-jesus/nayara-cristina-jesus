@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently studying Python, R, Scala, Julia e Java
 - 😄 Pronouns: she/her
 
 ![Nayara Cristina Jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=dracula)
