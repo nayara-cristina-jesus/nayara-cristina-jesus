@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+- 💻 Computer Science student at UERJ
 - 🔭 I’m currently working at IBM
 - 🌱 I’m currently learning: Python, R, Scala, Julia and Java
-- 💻 Computer Science student at UERJ
 - 📚 Data Engineering | QA | DBM | Data Science
 <br>
 <!-- ![Nayara Cristina Jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=dracula) -->
