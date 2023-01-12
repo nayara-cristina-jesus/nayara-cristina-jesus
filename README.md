@@ -2,9 +2,10 @@
 
 - 📚 Computer Science student at UERJ
 - 🌱 I’m currently learning: Python, R, Scala, Julia and Java
-<br>
+
 
 <!--
+<br>
 
 ![Nayara Cristina Jesus GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=dracula) 
 
