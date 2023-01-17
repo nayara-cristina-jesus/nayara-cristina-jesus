@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 Computer Science student at the State University of Rio de Janeiro
+- 📚 Computer Science student at Rio de Janeiro State University.
 - 🌱 I’m currently learning: Python, R, Scala, Julia and Java
 
 <br>
