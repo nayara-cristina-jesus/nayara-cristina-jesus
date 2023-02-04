@@ -7,7 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&theme=dracula)](https://github.com/nayara-cristina-jesus/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&theme=dracula)](https://github.com/nayara-cristina-jesus/github-readme-stats) 
-
 
 
