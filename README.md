@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>📚 Computer Science - State University of Rio de Janeiro</p>
-<p>🌱 I’m currently learning: Python, R, Scala, Julia, Java and Elixir</p>
+<p>🚀🚀 I’m currently learning: Python, R, Scala, Julia, Java and Elixir</p>
 
 <br>
 
