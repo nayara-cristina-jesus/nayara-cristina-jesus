@@ -5,7 +5,7 @@
 *She/Her* <br>
 *Rio de Janeiro, Brazil* <br>
 *Computer Science student at State University of Rio de Janeiro* <br>
-*Currently I'm working as a Data Enginner* <br>
+*Currently working as a Data Enginner* <br>
 
 ## 📚 Learning
 
