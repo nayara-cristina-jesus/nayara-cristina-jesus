@@ -25,8 +25,8 @@
 - `Artificial Intelligence` 
 - `Machine Learning` 
 - `Neural Networks` 
+- `Data Science`
 - `Deep Learning`  
-- `Data Science` 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight)
 
