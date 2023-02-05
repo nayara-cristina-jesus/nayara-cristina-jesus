@@ -1,4 +1,4 @@
-### Hey and big welcome!
+### Hey, big welcome!
 
 ## 👩‍💻 About me
 
