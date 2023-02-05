@@ -7,7 +7,7 @@
 *Computer Science student at State University of Rio de Janeiro* <br>
 *Currently working as a Data Enginner* <br>
 
-## 📚 Learning
+## 🖥️ Learning
 
 `Python` `R` `Scala` `Julia` `Java` `Elixir` 
 
