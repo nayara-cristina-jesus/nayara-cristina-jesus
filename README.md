@@ -1,12 +1,15 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight) 
+
 ### Hey ya, big welcome!
 
-## 👩‍💻 About me
+## About me
 
 *She/Her* <br>
 *Computer Science student at State University of Rio de Janeiro* <br>
 *Currently working as a Data Enginner* <br>
+*Computer Science | Data Engineering | Data Science | Statistics | Math*
 
-## 🖥️ Learning
+## Learning
 
 `Python` `R` `Scala` `Julia` `Java` `Elixir` 
 
@@ -19,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
 </p>
 
-## 📚 My areas of study
+## My areas of study
 
 - `Artificial Intelligence` 
 - `Machine Learning` 
@@ -27,13 +30,10 @@
 - `Data Science`
 - `Deep Learning`  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&theme=dracula)](https://github.com/nayara-cristina-jesus/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&theme=dracula)](https://github.com/nayara-cristina-jesus/github-readme-stats) 
+<!-- ![GitHub Org's stars](https://img.shields.io/github/stars/nayara-cristina-jesus?style=social) -->
 
-![GitHub Org's stars](https://img.shields.io/github/stars/nayara-cristina-jesus?style=social)
-
-`Computer Science` `Data Engineering` `Data Science` `Statistics` `Math` 
 
 
 
