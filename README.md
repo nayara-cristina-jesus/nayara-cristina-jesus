@@ -2,6 +2,9 @@
 
 ### Hey ya, big welcome!
 
+🇺🇸 I've started 2023 really motivated to learn new things. <br>
+🇧🇷 Eu comecei 2023 muito motivada a aprender coisas novas.
+
 ## About me
 
 *She/Her* <br>
