@@ -3,7 +3,6 @@
 ## 👩‍💻 About me
 
 *She/Her* <br>
-*Rio de Janeiro, Brazil* <br>
 *Computer Science student at State University of Rio de Janeiro* <br>
 *Currently working as a Data Enginner* <br>
 
@@ -20,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
 </p>
 
-## 📚 Study, study and study
+## 📚 My areas of study
 
 - `Artificial Intelligence` 
 - `Machine Learning` 
