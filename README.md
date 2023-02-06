@@ -2,9 +2,6 @@
 
 ### Hey ya, big welcome!
 
-🇺🇸 I started 2023 really motivated to learn new things. <br>
-🇧🇷 Comecei 2023 muito motivada a aprender coisas novas.
-
 ## About me
 
 :woman_technologist: She/Her <br>
