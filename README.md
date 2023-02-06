@@ -7,10 +7,10 @@
 
 ## About me
 
-*She/Her* <br>
-*Computer Science student at State University of Rio de Janeiro* <br>
-*Currently working as a Data Enginner* <br>
-*Computer Science | Data Engineering | Data Science | Statistics | Math*
+:woman_technologist: She/Her <br>
+:mortar_board: Computer Science student at State University of Rio de Janeiro <br>
+:desktop_computer: Currently working as a Data Enginner <br>
+:seedling: Computer Science | Data Engineering | Data Science | Statistics | Math
 
 ## Learning
 
