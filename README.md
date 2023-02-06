@@ -1,12 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight) 
 
-### Hey ya, big welcome!
-
 ## About me
 
-:woman_technologist: She/Her <br>
-:mortar_board: Computer Science student at State University of Rio de Janeiro <br>
-:desktop_computer: Currently working as a Data Enginner <br>
+- She/Her <br>
+- Rio de Janeiro, Brazil <br>
+- Computer Science<br>
+- Currently working as a Data Enginner <br>
 
 ## Learning
 
