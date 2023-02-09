@@ -1,4 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight) 
+<div>
+<a href="https://github.com/nayara-cristina-jesus">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## About me
 
