@@ -8,7 +8,6 @@ I don't know has become I don't know yet. (Bill Gates)
 
 ## About me
 
-- She/Her <br>
 - Rio de Janeiro, Brazil <br>
 - Computer Science<br>
 - Currently working as a Data Enginner <br>
@@ -37,14 +36,6 @@ I don't know has become I don't know yet. (Bill Gates)
 - `Neural Networks` 
 - `Data Science`
 - `Deep Learning`  
-
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/nayara-cristina-jesus/nayara-cristina-jesus/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 
 
 
