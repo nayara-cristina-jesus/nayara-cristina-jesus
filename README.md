@@ -1,9 +1,9 @@
 I don't know has become I don't know yet. (Bill Gates)
 
 <div>
-<a href="https://github.com/nayara-cristina-jesus">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/nayara-cristina-jesus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## About me
@@ -12,6 +12,10 @@ I don't know has become I don't know yet. (Bill Gates)
 - Rio de Janeiro, Brazil <br>
 - Computer Science<br>
 - Currently working as a Data Enginner <br>
+  
+<div align="left">
+  <a href="https://www.linkedin.com/in/nayara-cristina-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Learning
 
@@ -34,11 +38,12 @@ I don't know has become I don't know yet. (Bill Gates)
 - `Data Science`
 - `Deep Learning`  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&theme=dracula)](https://github.com/nayara-cristina-jesus/github-readme-stats) -->
 
-<!-- ![GitHub Org's stars](https://img.shields.io/github/stars/nayara-cristina-jesus?style=social) -->
-
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/nayara-cristina-jesus/nayara-cristina-jesus/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
