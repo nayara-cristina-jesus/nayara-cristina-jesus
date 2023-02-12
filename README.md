@@ -1,3 +1,5 @@
+I don't know has become I don't know yet. (Bill Gates)
+
 <div>
 <a href="https://github.com/nayara-cristina-jesus">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
