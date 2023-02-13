@@ -1,11 +1,13 @@
-I don't know has become I don't know yet. (Bill Gates)
-
-<div>
+<div align="center">
   <a href="https://github.com/nayara-cristina-jesus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayara-cristina-jesus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayara-cristina-jesus&layout=compact&langs_count=7&theme=tokyonight"/>
+</div> <br>
+  
+<div align="center">
+  I don't know has become I don't know yet. (Bill Gates)
 </div>
-
+  
 ## About me
 
 - Rio de Janeiro, Brazil <br>
