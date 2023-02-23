@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </p>
 
-  
 ## About me
 
 - Rio de Janeiro, Brazil <br>
@@ -32,7 +31,6 @@
   <a href="https://www.linkedin.com/in/nayara-cristina-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-
 ## My areas of study
 
 - `Artificial Intelligence` 
@@ -51,6 +49,3 @@
 :construction: `/learning-elixir` <br>
 :construction: `/learning-matlab` <br>
 :construction: `/learning-lua`
-
-
-
