@@ -38,6 +38,9 @@
 - `Neural Networks` 
 - `Data Science`
 - `Deep Learning`  
+- `Data Analytics` 
+- `Big Data`
+- `Data Mining`   
 
 ## Main repositories
 
