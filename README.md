@@ -40,12 +40,15 @@
 - `Deep Learning`    
 
 ## Main repositories
+  
+<p align="left">
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-python">/learning-python</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-r">/learning-r</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-scala">/learning-scala</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-julia">/learning-julia</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-java">/learning-java</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-elixir">/learning-elixir</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-matlab">/learning-matlab</a> <br>
+  :construction: <a href="https://github.com/nayara-cristina-jesus/learning-lua">/learning-lua</a>
+</p>    
 
-:construction: `/learning-python` <br>
-:construction: `/learning-r` <br>
-:construction: `/learning-scala` <br>
-:construction: `/learning-julia` <br>
-:construction: `/learning-java` <br>
-:construction: `/learning-elixir` <br>
-:construction: `/learning-matlab` <br>
-:construction: `/learning-lua`
