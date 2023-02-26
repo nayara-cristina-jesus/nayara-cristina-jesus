@@ -22,7 +22,7 @@
 
 ## About me
 
-- :brazil: Ela / :us: She / :es: Ella / :fr: Elle / :de: Sie
+- :brazil: Ela/Dela :us: She/Her
 - #**Women**In**STEM** :purple_heart: <br>
 - Computer Science Student<br>
 - Currently working as a Data Enginner <br>
