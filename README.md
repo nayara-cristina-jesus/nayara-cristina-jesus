@@ -22,8 +22,8 @@
 
 ## About me
 
-- :brazil: Ela/Dela :us: She/Her
-- #**Women**In**STEM** :purple_heart: <br>
+- She/Her
+- Women in STEM <br>
 - Computer Science Student<br>
 - Currently working as a Data Enginner <br>
 - Learning: Python, R, Scala, Julia, Java, Elixir, MATLAB and Lua  
