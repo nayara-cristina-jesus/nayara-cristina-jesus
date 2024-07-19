@@ -8,15 +8,15 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>Python</strong>, <strong>SQL</strong> e <strong>R</strong>.
+  Linguagens: <strong>Python</strong>, <strong>SQL</strong> e <strong>R</strong>
 </p>
 
 <p align="left">
-   Banco de Dados: <strong>Oracle</strong>, <strong>PostgreSQL</strong> e <strong>MySQL</strong>.
+   Banco de Dados: <strong>Oracle</strong>, <strong>PostgreSQL</strong> e <strong>MySQL</strong>
 </p>
 
 <p align="left">
-  Outros: Excel, Power BI, Jupyter Notebook, VS Code, Git, LGPD.
+  Outros: Excel, Power BI, Jupyter Notebook, VS Code, Git, LGPD
 </p>
 
 <div style="display: inline_block">
